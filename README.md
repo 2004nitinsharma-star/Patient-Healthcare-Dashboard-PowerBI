@@ -1,2 +1,21 @@
 # Patient-Healthcare-Dashboard-PowerBI
-Power BI  Patient Healthcare Dashboard Project
+
+## Overview
+This project analyzes patient healthcare data using Power BI.
+
+## Tools Used
+- Power BI
+- Power Query
+- DAX
+- Excel
+
+## Features
+- Patient Overview
+- Disease Analysis
+- Billing Analysis
+- Interactive Filters
+
+## Files
+- patient healthcare dashboard.pbix
+- Patient_History_data-.xlsx
+- Dashboard Screenshot
